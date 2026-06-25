@@ -3,6 +3,10 @@
 An AI-powered GitHub Repository Assistant built using Retrieval-Augmented Generation (RAG). The application analyzes any public GitHub repository, generates a repository overview, and allows users to interact with the codebase through a conversational chatbot.
 
 ---
+## Project_URL
+https://app-rag-assistant-ulgnql3vn7xd4qvvbmtevx.streamlit.app/
+
+---
 
 ## Features
 
